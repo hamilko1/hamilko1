@@ -1,4 +1,4 @@
-<hr>
+<hr> 
 <img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,53,106&height=180&section=header&text=Desenvolvedor-FrontEnd&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <hr>
