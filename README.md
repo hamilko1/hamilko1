@@ -7,7 +7,7 @@
 <h1>Olá amigos DEVs, vamos conversar? ☕👨‍💻</h1>
 
 - 🔭 Em busca de uma jornada...
-- 🌱 Estudando HTML, CSS, JavaScrip & React.
+- 🌱 Estudando HTML, CSS, JavaScript & React.
 - ❄️ Curitiba/PR.
 - 🧑‍💼 Aberto para novas oportunidades.
 <h1><strong>Sobre Mim</strong></h1>
