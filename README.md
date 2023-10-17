@@ -3,30 +3,40 @@
 
 <hr>
 
+##
+<h1>Olá, vamos conversar? ☕👨‍💻</h1>
 
-<h1>Olá amigos DEVs, vamos conversar? ☕👨‍💻</h1>
-
-- 🔭 Em busca de uma jornada...
-- 🌱 Estudando HTML, CSS, JavaScript & React.
+- 🔭 Evoluindo...
+- 🌱 Estudando HTML, CSS, JavaScript, PHP & SQL.
 - ❄️ Curitiba/PR.
 - 🧑‍💼 Aberto para novas oportunidades.
-<h1><strong>Sobre Mim</strong></h1>
-    Olá meu nome é Matheus Thiago, sou de CWB City, tenho 20 anos, estudante de ADS pelo SENAI/PR e fazendo graduação em Engenharia de Software pela Universidade Positivo, entre outros #ValeuALURA. 👨‍💻✨
-   
-   - Sou um apaixonado por esportes, sofrendo pelo maior do Paraná, acompanho diversos esportes, entre eles, NFL 🏈, NHL 🏒, NBA 🏀 & MLB ⚾.
 
-   - Um apaixonado por Front-End, mas com traços de Back-End, venha Full-Stack, nunca te pedi nada. 🙏✨
+<h1><strong>Profissional 💼</strong></h1>
+    Olá meu nome é Matheus Thiago, sou de Curitiba-PR, tenho atualmente 20 anos, entrei nesse mundo da programação/TI em 2022 sendo um estudante de Analíse e Desenvolvimento de Software pelo SENAI/PR e atualmente estou realizando minha graduação em Engenharia de Software pela Universidade Positivo estando no segundo período, entre outros cursos complementares.
 
-   - Amante da academia. Obs: Não faço amor com o suco. #SejaNatural 🏋️🌱
+   - Atualmente estou estudando/dedicando meu tempo principalmente ao Front-End, mas meu desejo é de me tornar um programador Full-Stack!!
 
-   - Cada dia mais me aprofudando nesse mundo e cada dia mais apaixonado. 👨‍💻❤️
+   - Estou sempre aberto a dicas e opinões, meu principal objetivo é evoluir cada dia mais! 
+
+   - Estou atualmente trabalhando no meu TCC do meu curso do SENAI, entre outros projetos acâdemicos da faculdade/cursos complementares, e alguns projetos próprios.
+
+   - Postarei aqui principalmente minha evolução por meio dos meu projetos!
+
+<h1><strong>Sobre Mim 🙋‍♂️</strong></h1>
+   - Apaixonado por esportes. ❤️🏈⚾️⚽️🏀🥊🏒
+
+   - Comprometimento com excelência, dedicado e esforçado. Sempre em busca de desafios e oportunidades para crescer.  🚀
+
+   - Mergulhado em jogos de video-game, desde que eu era pequeno, inclusive sendo uma das minhas areas de interesse!! 🎮
+
 <div style="display: inline_block" >
   <img align="center" alt="verdão" height="30" width="30" src="https://logodownload.org/wp-content/uploads/2017/02/coritiba-logo-escudo-2.png">
   <img align="center" alt="ravens" height="50" width="50" src="https://assets.stickpng.com/images/580b585b2edbce24c47b2b09.png">
-  <img align="center" alt="torontp" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Toronto_Maple_Leafs_Logo_1939_-_1967.svg/1745px-Toronto_Maple_Leafs_Logo_1939_-_1967.svg.png"> 
+  <img align="center" alt="vegas" height="50" width="50" src="https://cdn.inspireuplift.com/uploads/images/seller_products/1685417102_Untitled-2-01.png"> 
   <img align="center" alt="bucks" height="40" width="40" src="https://logodetimes.com/times/milwaukee-bucks/logo-milwaukee-bucks-4096.png">
-  <img align="center" alt="yankees" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Yankees_logo.svg/1782px-Yankees_logo.svg.png">
+  <img align="center" alt="phillies" height="35" width="35" src="https://i.pinimg.com/originals/cc/8f/e0/cc8fe0126d039c288c4a99344bfc404b.png">
 </div>
+
 
 ##
 <h1>Skills</h1>
