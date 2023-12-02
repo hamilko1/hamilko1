@@ -7,7 +7,7 @@
 <h1>Olá, vamos conversar? ☕👨‍💻</h1>
 
 - 🔭 Evoluindo...
-- 🌱 Estudando HTML, CSS, JavaScript, PHP & SQL.
+- 🌱 Estudando HTML, CSS, JavaScript, PHP, Python & SQL.
 - ❄️ Curitiba/PR.
 - 🧑‍💼 Aberto para novas oportunidades.
 
