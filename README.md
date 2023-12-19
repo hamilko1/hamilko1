@@ -1,5 +1,5 @@
 <hr>  
-<img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,53,106&height=180&section=header&text=Desenvolvedor-FrontEnd&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,53,106&height=180&section=header&text=Desenvolvedor Júnior&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <hr>
 
@@ -18,11 +18,12 @@
 
    - Estou sempre aberto a dicas e opinões, meu principal objetivo é evoluir cada dia mais! 
 
-   - Estou atualmente trabalhando no meu TCC do meu curso do SENAI, entre outros projetos acâdemicos da faculdade/cursos complementares, e alguns projetos próprios.
+   - Estou atualmente fazendo projetos acâdemicos da faculdade/cursos complementares, e alguns outros projetos próprios, sendo eles o que mais destaco o meu TCC realizado para a formatura do SENAI/PR.
 
    - Postarei aqui principalmente minha evolução por meio dos meu projetos!
 
 <h1><strong>Sobre Mim 🙋‍♂️</strong></h1>
+   
    - Apaixonado por esportes. ❤️🏈⚾️⚽️🏀🥊🏒
 
    - Comprometimento com excelência, dedicado e esforçado. Sempre em busca de desafios e oportunidades para crescer.  🚀
