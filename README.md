@@ -18,7 +18,7 @@
 
    - Estou atualmente principalmente fazendo projetos acâdemicos da faculdade/cursos complementares, e alguns outros projetos próprios, sendo eles o que mais destaco o meu TCC realizado para a finalização do meu curso no SENAI/PR.
 
-
+   - Estudante de Línguas: 🇧🇷 🇪🇸 🇩🇪 🇺🇸
 
 <h1><strong>Sobre Mim 🙋‍♂️</strong></h1>
    
