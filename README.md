@@ -1,5 +1,5 @@
 <hr>  
-<img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,53,106&height=180&section=header&text=Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,53,106&height=180&section=header&text=Desenvolvedor-Júnior&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <hr>
 
@@ -18,7 +18,7 @@
 
    - Estou atualmente principalmente fazendo projetos acâdemicos da faculdade/cursos complementares, e alguns outros projetos próprios, sendo eles o que mais destaco o meu TCC realizado para a finalização do meu curso no SENAI/PR.
 
-    - Estudante de Línguas: 🇩🇪 🇧🇷 🇺🇸 🇪🇦
+
 
 <h1><strong>Sobre Mim 🙋‍♂️</strong></h1>
    
