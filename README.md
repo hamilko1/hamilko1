@@ -4,31 +4,27 @@
 <hr>
 
 ##
-<h1>Olá, vamos conversar? ☕👨‍💻</h1>
+<h1>Olá! ☕👨‍💻</h1>
 
 - 🔭 Evoluindo...
-- 🌱 Estudando HTML, CSS, JavaScript, PHP, Python & SQL.
+- 🌱 Estudando HTML, CSS, JavaScript, PHP, Python, Java, C++, C, C# & SQL.
 - ❄️ Curitiba/PR.
-- 🧑‍💼 Aberto para novas oportunidades.
+- 🧑‍💼 Aberto a oportunidades...
 
 <h1><strong>Profissional 💼</strong></h1>
-    Olá meu nome é Matheus Thiago, sou de Curitiba-PR, tenho atualmente 20 anos, entrei nesse mundo da programação/TI em 2022 sendo um estudante de Analíse e Desenvolvimento de Software pelo SENAI/PR e atualmente estou realizando minha graduação em Engenharia de Software pela Universidade Positivo estando no segundo período, entre outros cursos complementares.
+    Olá meu nome é Matheus Thiago, sou de Curitiba-PR, tenho atualmente 20 anos, entrei nesse mundo da programação/TI em 2022 começando como um estudante de Analíse e Desenvolvimento de Sistemas pelo SENAI/PR onde fui bolsista 100%(depois de provas e testes) e atualmente estou realizando minha graduação em Engenharia de Software pela Universidade Positivo, também estudo utilizando o curso On-line da Alura, onde estudo desde 2023. 
 
-   - Atualmente estou estudando/dedicando meu tempo principalmente ao Front-End, mas meu desejo é de me tornar um programador Full-Stack!!
+   - Atualmente estou estudando/dedicando meu tempo principalmente ao Desenvolvimento.
 
-   - Estou sempre aberto a dicas e opinões, meu principal objetivo é evoluir cada dia mais! 
+   - Estou atualmente principalmente fazendo projetos acâdemicos da faculdade/cursos complementares, e alguns outros projetos próprios, sendo eles o que mais destaco o meu TCC realizado para a finalização do meu curso no SENAI/PR.
 
-   - Estou atualmente fazendo projetos acâdemicos da faculdade/cursos complementares, e alguns outros projetos próprios, sendo eles o que mais destaco o meu TCC realizado para a formatura do SENAI/PR.
-
-   - Postarei aqui principalmente minha evolução por meio dos meu projetos!
+    - Estudante de Línguas: 🇩🇪 🇧🇷 🇺🇸 🇪🇦
 
 <h1><strong>Sobre Mim 🙋‍♂️</strong></h1>
    
    - Apaixonado por esportes. ❤️🏈⚾️⚽️🏀🥊🏒
 
    - Comprometimento com excelência, dedicado e esforçado. Sempre em busca de desafios e oportunidades para crescer.  🚀
-
-   - Mergulhado em jogos de video-game, desde que eu era pequeno, inclusive sendo uma das minhas areas de interesse!! 🎮
 
 <div style="display: inline_block" >
   <img align="center" alt="verdão" height="30" width="30" src="https://logodownload.org/wp-content/uploads/2017/02/coritiba-logo-escudo-2.png">
