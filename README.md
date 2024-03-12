@@ -1,5 +1,5 @@
 <hr>  
-<img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,53,106&height=180&section=header&text=Desenvolvedor-Júnior&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=52,17,106&height=180&section=header&text=Desenvolvedor-Júnior&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <hr>
 
@@ -67,13 +67,5 @@
   
 </div>
 
-  ##  <h1>Jogos Favoritos</h1>
-<div align="center">
-  <img align="center" alt="godofwar" height="200" width="150" src="https://static.wikia.nocookie.net/godofwar/images/a/a7/Portada_God_of_War.png/revision/latest?cb=20211007231413&path-prefix=es" />
-  <img align="center" alt="FIFA" height="200" width="150" src="https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/GU1vXFJpbzGYNV6UN3U0Cnnb.png" />
-  <img align="center" alt="Minecraft" height="200" width="160" src="https://image.api.playstation.com/vulcan/img/cfn/11307uYG0CXzRuA9aryByTHYrQLFz-HVQ3VVl7aAysxK15HMpqjkAIcC_R5vdfZt52hAXQNHoYhSuoSq_46_MT_tDBcLu49I.png" />
-  <img align="center" alt="DBD" height="200" width="150" src="https://store-images.s-microsoft.com/image/apps.16719.13756572830160292.a0be61ed-4aae-47f9-8a44-c8be54b53f15.917800ae-51f5-48b3-aa38-cb498fde9b40?mode=scale&q=90&h=225&w=150" />
-  <img align="center" alt="CSGO" height="200" width="150" src="https://upload.wikimedia.org/wikipedia/lt/8/85/CSGOcoverMarch2020.jpeg" />
-</div>
 <hr>
-<img width=100% title="Hornet-Developer" alt="Hornet-Developer"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,53,106&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<img width=100% title="Hornet-Developer" alt="Hornet-Developer"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=52,17,106&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
