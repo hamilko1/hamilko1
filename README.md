@@ -46,7 +46,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java-14.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXiwPjUSVPWNYqkX1Oii-hOokv2zjUat7yQivG_8LInw&s">
   <img align="center" alt="SQL" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"> 
   <img align="center" alt="PHP" height="30" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"> 
 </div>
