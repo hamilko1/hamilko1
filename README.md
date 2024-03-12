@@ -30,9 +30,9 @@
 
 <div style="display: inline_block" >
   <img align="center" alt="verdão" height="30" width="30" src="https://logodownload.org/wp-content/uploads/2017/02/coritiba-logo-escudo-2.png">
-  <img align="center" alt="ravens" height="50" width="50" src="https://assets.stickpng.com/images/580b585b2edbce24c47b2b09.png">
-  <img align="center" alt="vegas" height="50" width="50" src="https://cdn.inspireuplift.com/uploads/images/seller_products/1685417102_Untitled-2-01.png"> 
-  <img align="center" alt="bucks" height="40" width="40" src="https://logodetimes.com/times/milwaukee-bucks/logo-milwaukee-bucks-4096.png">
+  <img align="center" alt="bills" height="50" width="50" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/buf.png">
+  <img align="center" alt="rangers" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/New_York_Rangers.svg/1200px-New_York_Rangers.svg.png"> 
+  <img align="center" alt="knicks" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/1200px-New_York_Knicks_logo.svg.png">
   <img align="center" alt="yankees" height="35" width="35" src="https://s.yimg.com/it/api/res/1.2/lYKYlfIMLvAyHxcOmPZ8Iw--~A/YXBwaWQ9eW5ld3M7dz0xMjAwO2g9NjMwO3E9MTAw/https://s.yimg.com/cv/apiv2/default/mlb/20190319/500x500/yankees_wbgs.png">
 </div>
 
