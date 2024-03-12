@@ -12,19 +12,21 @@
 - 🧑‍💼 Aberto a oportunidades...
 
 <h1><strong>Profissional 💼</strong></h1>
-    Olá meu nome é Matheus Thiago, sou de Curitiba-PR, tenho atualmente 20 anos, entrei nesse mundo da programação/TI em 2022 começando como um estudante de Analíse e Desenvolvimento de Sistemas pelo SENAI/PR onde fui bolsista 100%(depois de provas e testes) e atualmente estou realizando minha graduação em Engenharia de Software pela Universidade Positivo, também estudo utilizando o curso On-line da Alura, onde estudo desde 2023. 
+    Olá meu nome é Matheus Thiago, sou de Curitiba-PR, tenho atualmente 20 anos, entrei nesse mundo da programação/TI em 2022 começando como um estudante de Analíse e Desenvolvimento de Sistemas pelo SENAI/PR onde fui bolsista 100%(depois de provas e testes) e atualmente estou realizando minha graduação em Engenharia de Software pela Universidade Positivo, também estudo todos os dias utilizando o curso On-line da Alura, onde estudo desde 2023. 
 
    - Atualmente estou estudando/dedicando meu tempo principalmente ao Desenvolvimento.
 
-   - Estou atualmente principalmente fazendo projetos acâdemicos da faculdade/cursos complementares, e alguns outros projetos próprios, sendo eles o que mais destaco o meu TCC realizado para a finalização do meu curso no SENAI/PR.
+   - Estou atualmente principalmente fazendo projetos acâdemicos da faculdade/cursos complementares e projetos pessoais, me baseando em incetivos pela internet.
 
-   - Estudante de Línguas: 🇧🇷 🇪🇸 🇩🇪 🇺🇸
+   - Estudante de Línguas: Espanhol, Inglês e Alemão.
 
 <h1><strong>Sobre Mim 🙋‍♂️</strong></h1>
    
-   - Apaixonado por esportes. ❤️🏈⚾️⚽️🏀🥊🏒
+   - Apaixonado por esportes. 
 
-   - Comprometimento com excelência, dedicado e esforçado. Sempre em busca de desafios e oportunidades para crescer.  🚀
+   - Comprometimento com excelência, dedicado e esforçado. Sempre em busca de desafios e oportunidades para crescer.  
+
+   - Amante de academia. 
 
 <div style="display: inline_block" >
   <img align="center" alt="verdão" height="30" width="30" src="https://logodownload.org/wp-content/uploads/2017/02/coritiba-logo-escudo-2.png">
