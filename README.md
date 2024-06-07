@@ -7,14 +7,14 @@
 <h1>Olá! ☕👨‍💻</h1>
 
 - 🔭 Buscando...
-- 🌱 Estudando HTML, CSS, JavaScript, PHP, Python, Java, C++, C, C# & SQL.
+- 🌱 Estudando HTML, CSS, JavaScript, PHP, Laravel, WordPress, React, CAKEPHP 4.
 - ❄️ Curitiba/PR.
-- 🧑‍💼 Aberto a oportunidades...
+- 🧑‍💼 Estagiando como Front-End.
 
 <h1><strong>Profissional 💼</strong></h1>
-    Olá meu nome é Matheus Thiago, sou de Curitiba-PR, tenho atualmente 20 anos, entrei nesse mundo da programação/TI em 2022 começando como um estudante de Analíse e Desenvolvimento de Sistemas pelo SENAI/PR onde fui bolsista 100%(depois de provas e testes) e atualmente estou realizando minha graduação em Engenharia de Software pela Universidade Positivo, também estudo todos os dias utilizando o curso On-line da Alura, onde estudo desde 2023. 
+    Olá meu nome é Matheus Thiago, sou de Curitiba-PR, tenho atualmente 21 anos, entrei nesse mundo da programação/TI em 2022 começando como um estudante de Analíse e Desenvolvimento de Sistemas pelo SENAI/PR onde fui bolsista 100%(depois de provas e testes) e atualmente estou realizando minha graduação em Engenharia de Software pela Universidade Positivo, também estudo todos os dias utilizando o curso On-line da Alura, onde estudo desde 2023. 
 
-   - Atualmente estou estudando/dedicando meu tempo principalmente ao Desenvolvimento.
+   - Atualmente estou estudando/dedicando meu tempo principalmente ao Desenvolvimento de projetos para estudo e estagiando em uma grande empresa de minha cidade.
 
    - Estou atualmente principalmente fazendo projetos acâdemicos da faculdade/cursos complementares e projetos pessoais, me baseando em incetivos pela internet.
 
@@ -26,7 +26,6 @@
 
    - Comprometimento com excelência, dedicado e esforçado. Sempre em busca de desafios e oportunidades para crescer.  
 
-   - Amante de academia. 
 
 <div style="display: inline_block" >
   <img align="center" alt="verdão" height="30" width="30" src="https://logodownload.org/wp-content/uploads/2017/02/coritiba-logo-escudo-2.png">
@@ -60,7 +59,7 @@
  ##
 <h1>Minhas Redes</h1>
 <div> 
-  <a href="https://instagram.com/bacanof1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/hammilko" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/hamilko1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheusth89@Hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-hamilko/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
