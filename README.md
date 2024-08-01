@@ -85,9 +85,9 @@ E aí, pessoal! Sou o Matheus Thiago de Curitiba-PR, tenho 21 anos e mergulhei n
 
 <h2><strong>Idiomas</strong></h2>
 
-  - Inglês: Intermediário/Avançado
-  - Espanhol: Básico
-  - Português: Fluente
+  - Inglês: Intermediário/Avançado 🇺🇸
+  - Espanhol: Básico 🇪🇸
+  - Português: Fluente 🇧🇷/🇵🇹
 
 Links para Contato
 
