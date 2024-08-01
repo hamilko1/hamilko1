@@ -35,36 +35,6 @@ E aí, pessoal! Sou o Matheus Thiago de Curitiba-PR, tenho 21 anos e mergulhei n
   - ⚽ Apaixonado por esportes.
   - 🎯 Comprometido com a excelência, sou dedicado e esforçado, sempre em busca de desafios e oportunidades para crescer.
 
-<h2><strong>Experiência</strong></h2>
-
-  - Homma Capital — Estágio Front-End/UI & UX/Web Design (maio/2024 - ago/2024)
-      - Projetos com HTML & CSS, Figma, JavaScript, CakePHP, PHP & Canvas.
-
-  - Freelancer — Design de postagens @loyalarmory (jan/2024 - Atualmente)
-      - Visual realizado com Canvas.
-
-<h2><strong>Formação</strong></h2>
-
-  - Universidade Positivo — Graduação em Engenharia de Software (fev/2023 - dez/2027, em andamento)
-      - Projetos em HTML & CSS, JavaScript, Java, Cs (C++, C & C#), MySQL, IA.
-
-  - Senai/PR — Técnico em Análise e Desenvolvimento de Sistemas (jun/2022 - dez/2023, concluído)
-      - Projetos em HTML & CSS, JavaScript, PHP, MySQL, Figma, Scrum, Kanban, WebHost, Flutter, Cs (C++, C & C#).
-
-<h2><strong>Cursos</strong></h2>
-
-  - Alura — Cursos diversos na Área de TI & Correlatas (jun/2023 - Atualmente)
-    - Projetos em HTML & CSS, Python, JavaScript, PHP, Figma, Vercel, Pacote Office, Mobile, TailwindCSS.
-
-  - Jornada do Dev — Cursos gratuitos na Área de TI (mai/2024 - ago/2024)
-    - Projetos em HTML & CSS, PHP.
-
-<h2><strong>Projetos de Destaque</strong></h2>
-
-  - TCC — Projeto final do curso no Senai/PR
-    - Tecnologias: HTML & CSS, PHP, MySQL
-    - Link GitHub: TCC
-
 <h2><strong>Tecnologias</strong></h2>
 
   - 🌐 HTML & CSS
