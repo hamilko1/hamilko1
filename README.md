@@ -5,34 +5,35 @@
 
 <h1>Olá! ☕👨‍💻</h1>
 
-    🔭 Atualmente em busca de novas oportunidades.
-    🌱 Estudando e aprimorando conhecimentos em:
-        HTML & CSS
-        TailwindCSS
-        JavaScript
-        PHP (CakePHP 4)
-        Cs (C++, C & C#)
-        MySQL
-        Canvas
-        Figma
-        Scrum & Kanban
-        Pacote Office
-        WebHost
-        Flutter
-        Vercel
-    ❄️ Localização: Curitiba/PR.
+    🔭 Buscando novas aventuras no mundo da programação.
+    🌱 Estudando e aprimorando minhas skills em:
+        🌐 HTML & CSS
+        🎨 TailwindCSS
+        ⚙️ JavaScript
+        🐘 PHP (CakePHP 4)
+        🔠 Cs (C++, C & C#)
+        🗄️ MySQL
+        🖌️ Canvas
+        🎨 Figma
+        📈 Scrum & Kanban
+        💼 Pacote Office
+        🌐 WebHost
+        📱 Flutter
+        🌍 Vercel
+    ❄️ Baseado em Curitiba/PR.
+    🧑‍💼 Em busca de novas oportunidades e desafios.
 
 <h1><strong>Profissional 💼</strong></h1>
 
-Olá, meu nome é Matheus Thiago. Sou de Curitiba-PR e tenho 21 anos. Entrei no mundo da programação e TI em 2022 como estudante de Análise e Desenvolvimento de Sistemas pelo SENAI/PR, onde fui bolsista 100%. Atualmente, estou cursando Engenharia de Software na Universidade Positivo e também estudo diariamente pela plataforma Alura desde 2023.
+E aí, pessoal! Sou o Matheus Thiago de Curitiba-PR, tenho 21 anos e mergulhei no mundo da programação e TI em 2022. Comecei como estudante de Análise e Desenvolvimento de Sistemas pelo SENAI/PR, onde fui bolsista 100%. Atualmente, estou cursando Engenharia de Software na Universidade Positivo e também estudo diariamente pela plataforma Alura desde 2023.
 
-    No momento, estou focado em desenvolver projetos acadêmicos e pessoais, além de estagiar em uma grande empresa na minha cidade.
-    Também estou me dedicando ao aprendizado de novas línguas: Espanhol, Inglês e Alemão.
+    📚 Estou focado em desenvolver projetos acadêmicos e pessoais, além de estagiar em uma grande empresa na minha cidade.
+    🌍 Também estou me dedicando ao aprendizado de novas línguas: Espanhol, Inglês e Alemão.
 
 <h1><strong>Sobre Mim 🙋‍♂️</strong></h1>
 
-    Apaixonado por esportes.
-    Comprometido com a excelência, sou dedicado e esforçado, sempre em busca de desafios e oportunidades para crescimento.
+    ⚽ Apaixonado por esportes.
+    🎯 Comprometido com a excelência, sou dedicado e esforçado, sempre em busca de desafios e oportunidades para crescer.
 
 <h2><strong>Experiência</strong></h2>
 
@@ -66,21 +67,21 @@ Olá, meu nome é Matheus Thiago. Sou de Curitiba-PR e tenho 21 anos. Entrei no 
 
 <h2><strong>Tecnologias</strong></h2>
 
-    HTML & CSS
-    TailwindCSS
-    JavaScript
-    PHP
-    CakePHP 4
-    Cs (C++, C & C#)
-    MySQL
-    Canvas
-    Figma
-    Scrum
-    Kanban
-    Pacote Office
-    WebHost
-    Flutter
-    Vercel
+    🌐 HTML & CSS
+    🎨 TailwindCSS
+    ⚙️ JavaScript
+    🐘 PHP
+    🎂 CakePHP 4
+    🔠 Cs (C++, C & C#)
+    🗄️ MySQL
+    🖌️ Canvas
+    🎨 Figma
+    📈 Scrum
+    📋 Kanban
+    💼 Pacote Office
+    🌐 WebHost
+    📱 Flutter
+    🌍 Vercel
 
 <h2><strong>Idiomas</strong></h2>
 
@@ -88,13 +89,13 @@ Olá, meu nome é Matheus Thiago. Sou de Curitiba-PR e tenho 21 anos. Entrei no 
     Espanhol: Básico
     Português: Fluente
 
-Formas de Contato
+Links para Contato
 
-    Telefone: (41) 98774-6883
-    GitHub: /hamilko1
-    LinkedIn: /matheus-hamilko/
-    E-mail: matheusth89@hotmail.com
-    Portfolio: Meu Portfolio
+    📞 Telefone: (41) 98774-6883
+    🐙 GitHub: /hamilko1
+    💼 LinkedIn: /matheus-hamilko/
+    📧 E-mail: matheusth89@hotmail.com
+    🌐 Portfolio: Meu Portfolio
 
 <div style="display: inline_block" >
   <img align="center" alt="verdão" height="30" width="30" src="https://logodownload.org/wp-content/uploads/2017/02/coritiba-logo-escudo-2.png">
