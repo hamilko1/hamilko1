@@ -88,7 +88,7 @@ Olá, meu nome é Matheus Thiago. Sou de Curitiba-PR e tenho 21 anos. Entrei no 
     Espanhol: Básico
     Português: Fluente
 
-Formas para Contato
+Formas de Contato
 
     Telefone: (41) 98774-6883
     GitHub: /hamilko1
