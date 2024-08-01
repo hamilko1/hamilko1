@@ -59,14 +59,6 @@ E aí, pessoal! Sou o Matheus Thiago de Curitiba-PR, tenho 21 anos e mergulhei n
   - Espanhol: Básico 🇪🇸
   - Português: Fluente 🇧🇷/🇵🇹
 
-Links para Contato
-
-  - 📞 Telefone: (41) 98774-6883
-  - 🐙 GitHub: /hamilko1
-  - 💼 LinkedIn: /matheus-hamilko/
-  - 📧 E-mail: matheusth89@hotmail.com
-  - 🌐 Portfolio: Meu Portfolio
-
 <div style="display: inline_block" >
   <img align="center" alt="verdão" height="30" width="30" src="https://logodownload.org/wp-content/uploads/2017/02/coritiba-logo-escudo-2.png">
   <img align="center" alt="bills" height="50" width="50" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/buf.png">
