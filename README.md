@@ -27,75 +27,75 @@
 
 E aí, pessoal! Sou o Matheus Thiago de Curitiba-PR, tenho 21 anos e mergulhei no mundo da programação e TI em 2022. Comecei como estudante de Análise e Desenvolvimento de Sistemas pelo SENAI/PR, onde fui bolsista 100%. Atualmente, estou cursando Engenharia de Software na Universidade Positivo e também estudo diariamente pela plataforma Alura desde 2023.
 
-    - 📚 Estou focado em desenvolver projetos acadêmicos e pessoais, além de estagiar em uma grande empresa na minha cidade.
-    - 🌍 Também estou me dedicando ao aprendizado de novas línguas: Espanhol, Inglês e Alemão.
+  - 📚 Estou focado em desenvolver projetos acadêmicos e pessoais, além de estagiar em uma grande empresa na minha cidade.
+  - 🌍 Também estou me dedicando ao aprendizado de novas línguas: Espanhol, Inglês e Alemão.
 
 <h1><strong>Sobre Mim 🙋‍♂️</strong></h1>
 
-    - ⚽ Apaixonado por esportes.
-    - 🎯 Comprometido com a excelência, sou dedicado e esforçado, sempre em busca de desafios e oportunidades para crescer.
+  - ⚽ Apaixonado por esportes.
+  - 🎯 Comprometido com a excelência, sou dedicado e esforçado, sempre em busca de desafios e oportunidades para crescer.
 
 <h2><strong>Experiência</strong></h2>
 
-    - Homma Capital — Estágio Front-End/UI & UX/Web Design (maio/2024 - ago/2024)
-       - Projetos com HTML & CSS, Figma, JavaScript, CakePHP, PHP & Canvas.
+  - Homma Capital — Estágio Front-End/UI & UX/Web Design (maio/2024 - ago/2024)
+      - Projetos com HTML & CSS, Figma, JavaScript, CakePHP, PHP & Canvas.
 
-    - Freelancer — Design de postagens @loyalarmory (jan/2024 - Atualmente)
-        - Visual realizado com Canvas.
+  - Freelancer — Design de postagens @loyalarmory (jan/2024 - Atualmente)
+      - Visual realizado com Canvas.
 
 <h2><strong>Formação</strong></h2>
 
-    - Universidade Positivo — Graduação em Engenharia de Software (fev/2023 - dez/2027, em andamento)
-        - Projetos em HTML & CSS, JavaScript, Java, Cs (C++, C & C#), MySQL, IA.
+  - Universidade Positivo — Graduação em Engenharia de Software (fev/2023 - dez/2027, em andamento)
+      - Projetos em HTML & CSS, JavaScript, Java, Cs (C++, C & C#), MySQL, IA.
 
-    - Senai/PR — Técnico em Análise e Desenvolvimento de Sistemas (jun/2022 - dez/2023, concluído)
-        - Projetos em HTML & CSS, JavaScript, PHP, MySQL, Figma, Scrum, Kanban, WebHost, Flutter, Cs (C++, C & C#).
+  - Senai/PR — Técnico em Análise e Desenvolvimento de Sistemas (jun/2022 - dez/2023, concluído)
+      - Projetos em HTML & CSS, JavaScript, PHP, MySQL, Figma, Scrum, Kanban, WebHost, Flutter, Cs (C++, C & C#).
 
 <h2><strong>Cursos</strong></h2>
 
-    - Alura — Cursos diversos na Área de TI & Correlatas (jun/2023 - Atualmente)
-        - Projetos em HTML & CSS, Python, JavaScript, PHP, Figma, Vercel, Pacote Office, Mobile, TailwindCSS.
+  - Alura — Cursos diversos na Área de TI & Correlatas (jun/2023 - Atualmente)
+    - Projetos em HTML & CSS, Python, JavaScript, PHP, Figma, Vercel, Pacote Office, Mobile, TailwindCSS.
 
-    - Jornada do Dev — Cursos gratuitos na Área de TI (mai/2024 - ago/2024)
-        - Projetos em HTML & CSS, PHP.
+  - Jornada do Dev — Cursos gratuitos na Área de TI (mai/2024 - ago/2024)
+    - Projetos em HTML & CSS, PHP.
 
 <h2><strong>Projetos de Destaque</strong></h2>
 
-    - TCC — Projeto final do curso no Senai/PR
-        - Tecnologias: HTML & CSS, PHP, MySQL
-        - Link GitHub: TCC
+  - TCC — Projeto final do curso no Senai/PR
+    - Tecnologias: HTML & CSS, PHP, MySQL
+    - Link GitHub: TCC
 
 <h2><strong>Tecnologias</strong></h2>
 
-    - 🌐 HTML & CSS
-    - 🎨 TailwindCSS
-    - ⚙️ JavaScript
-    - 🐘 PHP
-    - 🎂 CakePHP 4
-    - 🔠 Cs (C++, C & C#)
-    - 🗄️ MySQL
-    - 🖌️ Canvas
-    - 🎨 Figma
-    - 📈 Scrum
-    - 📋 Kanban
-    - 💼 Pacote Office
-    - 🌐 WebHost
-    - 📱 Flutter
-    - 🌍 Vercel
+  - 🌐 HTML & CSS
+  - 🎨 TailwindCSS
+  - ⚙️ JavaScript
+  - 🐘 PHP
+  - 🎂 CakePHP 4
+  - 🔠 Cs (C++, C & C#)
+  - 🗄️ MySQL
+  - 🖌️ Canvas
+  - 🎨 Figma
+  - 📈 Scrum
+  - 📋 Kanban
+  - 💼 Pacote Office
+  - 🌐 WebHost
+  - 📱 Flutter
+  - 🌍 Vercel
 
 <h2><strong>Idiomas</strong></h2>
 
-    - Inglês: Intermediário/Avançado
-    - Espanhol: Básico
-    - Português: Fluente
+  - Inglês: Intermediário/Avançado
+  - Espanhol: Básico
+  - Português: Fluente
 
 Links para Contato
 
-    - 📞 Telefone: (41) 98774-6883
-    - 🐙 GitHub: /hamilko1
-    - 💼 LinkedIn: /matheus-hamilko/
-    - 📧 E-mail: matheusth89@hotmail.com
-    -🌐 Portfolio: Meu Portfolio
+  - 📞 Telefone: (41) 98774-6883
+  - 🐙 GitHub: /hamilko1
+  - 💼 LinkedIn: /matheus-hamilko/
+  - 📧 E-mail: matheusth89@hotmail.com
+  - 🌐 Portfolio: Meu Portfolio
 
 <div style="display: inline_block" >
   <img align="center" alt="verdão" height="30" width="30" src="https://logodownload.org/wp-content/uploads/2017/02/coritiba-logo-escudo-2.png">
