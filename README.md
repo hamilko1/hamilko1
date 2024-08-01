@@ -3,29 +3,98 @@
 
 <hr>
 
-##
 <h1>Olá! ☕👨‍💻</h1>
 
-- 🔭 Buscando...
-- 🌱 Estudando HTML, CSS, JavaScript, PHP, Laravel, WordPress, React, CAKEPHP 4.
-- ❄️ Curitiba/PR.
-- 🧑‍💼 Estagiando como Front-End.
+    🔭 Atualmente em busca de novas oportunidades.
+    🌱 Estudando e aprimorando conhecimentos em:
+        HTML & CSS
+        TailwindCSS
+        JavaScript
+        PHP (CakePHP 4)
+        Cs (C++, C & C#)
+        MySQL
+        Canvas
+        Figma
+        Scrum & Kanban
+        Pacote Office
+        WebHost
+        Flutter
+        Vercel
+    ❄️ Localização: Curitiba/PR.
 
 <h1><strong>Profissional 💼</strong></h1>
-    Olá meu nome é Matheus Thiago, sou de Curitiba-PR, tenho atualmente 21 anos, entrei nesse mundo da programação/TI em 2022 começando como um estudante de Analíse e Desenvolvimento de Sistemas pelo SENAI/PR onde fui bolsista 100%(depois de provas e testes) e atualmente estou realizando minha graduação em Engenharia de Software pela Universidade Positivo, também estudo todos os dias utilizando o curso On-line da Alura, onde estudo desde 2023. 
 
-   - Atualmente estou estudando/dedicando meu tempo principalmente ao Desenvolvimento de projetos para estudo e estagiando em uma grande empresa de minha cidade.
+Olá, meu nome é Matheus Thiago. Sou de Curitiba-PR e tenho 21 anos. Entrei no mundo da programação e TI em 2022 como estudante de Análise e Desenvolvimento de Sistemas pelo SENAI/PR, onde fui bolsista 100%. Atualmente, estou cursando Engenharia de Software na Universidade Positivo e também estudo diariamente pela plataforma Alura desde 2023.
 
-   - Estou atualmente principalmente fazendo projetos acâdemicos da faculdade/cursos complementares e projetos pessoais, me baseando em incetivos pela internet.
-
-   - Estudante de Línguas: Espanhol, Inglês e Alemão.
+    No momento, estou focado em desenvolver projetos acadêmicos e pessoais, além de estagiar em uma grande empresa na minha cidade.
+    Também estou me dedicando ao aprendizado de novas línguas: Espanhol, Inglês e Alemão.
 
 <h1><strong>Sobre Mim 🙋‍♂️</strong></h1>
-   
-   - Apaixonado por esportes. 
 
-   - Comprometimento com excelência, dedicado e esforçado. Sempre em busca de desafios e oportunidades para crescer.  
+    Apaixonado por esportes.
+    Comprometido com a excelência, sou dedicado e esforçado, sempre em busca de desafios e oportunidades para crescimento.
 
+<h2><strong>Experiência</strong></h2>
+
+    Homma Capital — Estágio Front-End/UI & UX/Web Design (maio/2024 - ago/2024)
+        Projetos com HTML & CSS, Figma, JavaScript, CakePHP, PHP & Canvas.
+
+    Freelancer — Design de postagens @loyalarmory (jan/2024 - Atualmente)
+        Visual realizado com Canvas.
+
+<h2><strong>Formação</strong></h2>
+
+    Universidade Positivo — Graduação em Engenharia de Software (fev/2023 - dez/2027, em andamento)
+        Projetos em HTML & CSS, JavaScript, Java, Cs (C++, C & C#), MySQL, IA.
+
+    Senai/PR — Técnico em Análise e Desenvolvimento de Sistemas (jun/2022 - dez/2023, concluído)
+        Projetos em HTML & CSS, JavaScript, PHP, MySQL, Figma, Scrum, Kanban, WebHost, Flutter, Cs (C++, C & C#).
+
+<h2><strong>Cursos</strong></h2>
+
+    Alura — Cursos diversos na Área de TI & Correlatas (jun/2023 - Atualmente)
+        Projetos em HTML & CSS, Python, JavaScript, PHP, Figma, Vercel, Pacote Office, Mobile, TailwindCSS.
+
+    Jornada do Dev — Cursos gratuitos na Área de TI (mai/2024 - ago/2024)
+        Projetos em HTML & CSS, PHP.
+
+<h2><strong>Projetos de Destaque</strong></h2>
+
+    TCC — Projeto final do curso no Senai/PR
+        Tecnologias: HTML & CSS, PHP, MySQL
+        Link GitHub: TCC
+
+<h2><strong>Tecnologias</strong></h2>
+
+    HTML & CSS
+    TailwindCSS
+    JavaScript
+    PHP
+    CakePHP 4
+    Cs (C++, C & C#)
+    MySQL
+    Canvas
+    Figma
+    Scrum
+    Kanban
+    Pacote Office
+    WebHost
+    Flutter
+    Vercel
+
+<h2><strong>Idiomas</strong></h2>
+
+    Inglês: Intermediário/Avançado
+    Espanhol: Básico
+    Português: Fluente
+
+<h2><strong>Links para Contato<h2><strong>
+
+    Telefone: (41) 98774-6883
+    GitHub: /hamilko1
+    LinkedIn: /matheus-hamilko/
+    E-mail: matheusth89@hotmail.com
+    Portfolio: Meu Portfolio
 
 <div style="display: inline_block" >
   <img align="center" alt="verdão" height="30" width="30" src="https://logodownload.org/wp-content/uploads/2017/02/coritiba-logo-escudo-2.png">
@@ -40,8 +109,6 @@
 <h1>Skills</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
