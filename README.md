@@ -20,7 +20,7 @@
        - 🌐 WebHost
        - 📱 Flutter
        - 🌍 Vercel
-    - ❄️ Baseado em Curitiba/PR.
+    - ❄️ Morador de Curitiba/PR.
     - 🧑‍💼 Em busca de novas oportunidades e desafios.
 
 <h1><strong>Profissional 💼</strong></h1>
