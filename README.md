@@ -27,7 +27,7 @@
 
 E aí, pessoal! Sou o Matheus Thiago de Curitiba-PR, tenho 21 anos e mergulhei no mundo da programação e TI em 2022. Comecei como estudante de Análise e Desenvolvimento de Sistemas pelo SENAI/PR, onde fui bolsista 100%. Atualmente, estou cursando Engenharia de Software na Universidade Positivo e também estudo diariamente pela plataforma Alura desde 2023.
 
-  - 📚 Estou focado em desenvolver projetos acadêmicos e pessoais, além de estagiar em uma grande empresa na minha cidade.
+  - 📚 Estou focado em desenvolver projetos acadêmicos e pessoais, além de buscar e me desenvolver cada vez mais.
   - 🌍 Também estou me dedicando ao aprendizado de novas línguas: Espanhol, Inglês e Alemão.
 
 <h1><strong>Sobre Mim 🙋‍♂️</strong></h1>
