@@ -10,7 +10,7 @@
        - 🌐 HTML & CSS
        - 🎨 TailwindCSS
        - ⚙️ JavaScript
-       - 🐘 PHP (CakePHP 4)
+       - 🐘 PHP (CakePHP 4, Laravel)
        - 🔠 Cs (C++, C & C#)
        - 🗄️ MySQL
        - 🖌️ Canvas
