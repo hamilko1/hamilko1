@@ -60,11 +60,10 @@ E aí, pessoal! Sou o Matheus Thiago de Curitiba-PR, tenho 21 anos e mergulhei n
   - Português: Fluente 🇧🇷/🇵🇹
 
 <div style="display: inline_block" >
-  <img align="center" alt="verdão" height="30" width="30" src="https://logodownload.org/wp-content/uploads/2017/02/coritiba-logo-escudo-2.png">
-  <img align="center" alt="bills" height="50" width="50" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/buf.png">
-  <img align="center" alt="rangers" height="38" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/New_York_Rangers.svg/1200px-New_York_Rangers.svg.png"> 
-  <img align="center" alt="knicks" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/1200px-New_York_Knicks_logo.svg.png">
-  <img align="center" alt="yankees" height="35" width="35" src="https://s.yimg.com/it/api/res/1.2/lYKYlfIMLvAyHxcOmPZ8Iw--~A/YXBwaWQ9eW5ld3M7dz0xMjAwO2g9NjMwO3E9MTAw/https://s.yimg.com/cv/apiv2/default/mlb/20190319/500x500/yankees_wbgs.png">
+  <img align="center" alt="verdão" height="50" width="50" src="https://logodownload.org/wp-content/uploads/2017/02/coritiba-logo-escudo-2.png">
+  <img align="center" alt="ravens" height="40" width="75" src="https://logodownload.org/wp-content/uploads/2020/07/baltimore-ravens-logo.png">
+  <img align="center" alt="wizards" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/pt/5/5b/Washington_Wizards.png">
+  <img align="center" alt="orioles" height="50" width="50" src="https://seeklogo.com/images/B/baltimore-orioles-logo-9CE23E31DB-seeklogo.com.png">
 </div>
 
 
