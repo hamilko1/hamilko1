@@ -6,22 +6,8 @@
 <h1>Olá! ☕👨‍💻</h1>
 
 - 🔭 Buscando novas aventuras no mundo da programação.
-  - 🌱 Estudando e aprimorando minhas skills em:
-       - 🌐 HTML & CSS
-       - 🎨 TailwindCSS
-       - ⚙️ JavaScript
-       - 🐘 PHP (CakePHP 4, Laravel)
-       - 🔠 Cs (C++, C & C#)
-       - 🗄️ MySQL
-       - 🖌️ Canvas
-       - 🎨 Figma
-       - 📈 Scrum & Kanban
-       - 💼 Pacote Office
-       - 🌐 WebHost
-       - 📱 Flutter
-       - 🌍 Vercel
-    - ❄️ Morador de Curitiba/PR.
-    - 🧑‍💼 Em busca de novas oportunidades e desafios.
+- ❄️ Morador de Curitiba/PR.
+- 🧑‍💼 Atualmente trabalhando atualmente na Nextage.
 
 <h1><strong>Profissional 💼</strong></h1>
 
