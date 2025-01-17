@@ -50,7 +50,7 @@ E aí, pessoal! Sou o Matheus Thiago de Curitiba-PR, tenho 21 anos e mergulhei n
   <img align="center" alt="ravens" height="40" width="75" src="https://logodownload.org/wp-content/uploads/2020/07/baltimore-ravens-logo.png">
   <img align="center" alt="wizards" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/pt/5/5b/Washington_Wizards.png">
   <img align="center" alt="orioles" height="70" width="70" src="https://logodownload.org/wp-content/uploads/2020/09/baltimore-orioles-logo-0.png">
-  <img align="center" alt="orioles" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Washington_Capitals.svg/2560px-Washington_Capitals.svg.png">
+  <img align="center" alt="orioles" height="70" width="85" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Washington_Capitals.svg/2560px-Washington_Capitals.svg.png">
 </div>
 
 
