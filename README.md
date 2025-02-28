@@ -7,7 +7,7 @@
 
 - 🔭 Buscando novas aventuras no mundo da programação.
 - ❄️ Morador de Curitiba/PR.
-- 🧑‍💼 Atualmente trabalhando atualmente na Nextage.
+- 🧑‍💼 Atualmente trabalhando na Nextage.
 
 <h1><strong>Profissional 💼</strong></h1>
 
@@ -23,21 +23,14 @@ E aí, pessoal! Sou o Matheus Thiago de Curitiba-PR, tenho 21 anos e mergulhei n
 
 <h2><strong>Tecnologias</strong></h2>
 
-  - 🌐 HTML & CSS
-  - 🎨 TailwindCSS
-  - ⚙️ JavaScript
-  - 🐘 PHP
-  - 🎂 CakePHP 4
-  - 🔠 Cs (C++, C & C#)
-  - 🗄️ MySQL
-  - 🖌️ Canvas
-  - 🎨 Figma
-  - 📈 Scrum
-  - 📋 Kanban
-  - 💼 Pacote Office
-  - 🌐 WebHost
-  - 📱 Flutter
-  - 🌍 Vercel
+  - 🌐 HTML & CSS;
+  - 🎨 TailwindCSS, Bootstrap & SASS;
+  - ⚙️ JavaScript, Node.JS, React, Angular, TypeScript;
+  - 🐘 PHP, CakePHP 4, Laravel;
+  - 🔠 Cs (C++, C & C#);
+  - 
+  - 🗄️ MySQL;
+  
 
 <h2><strong>Idiomas</strong></h2>
 
@@ -50,7 +43,7 @@ E aí, pessoal! Sou o Matheus Thiago de Curitiba-PR, tenho 21 anos e mergulhei n
   <img align="center" alt="ravens" height="40" width="75" src="https://logodownload.org/wp-content/uploads/2020/07/baltimore-ravens-logo.png">
   <img align="center" alt="wizards" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/pt/5/5b/Washington_Wizards.png">
   <img align="center" alt="orioles" height="70" width="70" src="https://logodownload.org/wp-content/uploads/2020/09/baltimore-orioles-logo-0.png">
-  <img align="center" alt="orioles" height="70" width="85" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Washington_Capitals.svg/2560px-Washington_Capitals.svg.png">
+  <img align="center" alt="capitals" height="70" width="85" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Washington_Capitals.svg/2560px-Washington_Capitals.svg.png">
 </div>
 
 
@@ -76,7 +69,6 @@ E aí, pessoal! Sou o Matheus Thiago de Curitiba-PR, tenho 21 anos e mergulhei n
 <h1>Minhas Redes</h1>
 <div> 
   <a href="https://instagram.com/hammilko" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/hamilko1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheusth89@Hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-hamilko/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
