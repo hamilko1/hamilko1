@@ -28,8 +28,8 @@ E aí, pessoal! Sou o Matheus Thiago de Curitiba-PR, tenho 21 anos e mergulhei n
   - ⚙️ JavaScript, Node.JS, React, Angular, TypeScript;
   - 🐘 PHP, CakePHP 4, Laravel;
   - 🔠 Cs (C++, C & C#);
-  - 
-  - 🗄️ MySQL;
+  - 🎨 Figma, Wordpress & Elementor;
+  - 🗄️ MySQL.
   
 
 <h2><strong>Idiomas</strong></h2>
